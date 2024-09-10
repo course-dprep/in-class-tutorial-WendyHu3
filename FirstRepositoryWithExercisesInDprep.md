@@ -1,4 +1,4 @@
-# First erepository with exercises in Drep
+# First repository with exercises in Drep
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
